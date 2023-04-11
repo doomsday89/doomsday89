@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rodrigo Jiménez Ruiz. I'm a web developer!
-- 👀 I’m interested in ... c#, python,java,php/js,html,css/angularjs,angular,vuejs/relational Database
-- 🌱 I’m currently learning ... python, springboot, laravel
-- 💞️ I’m looking to collaborate on ... Goverment Chiapas
+- 👀 I’m interested in ... c#, python,java/js,html,css/angularjs,angular,vuejs/relational Database
+- 🌱 I’m currently practicing: python and springboot
+- 💞️ I’m looking to collaborate on ... Goverment
 - 📫 How to reach me ... doomsday89@gmail.com
 
 <!---
